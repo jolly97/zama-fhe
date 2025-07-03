@@ -67,3 +67,5 @@ npx hardhat compile
 npx hardhat deploy --network sepolia
 ```
 * It responds with your deployed contract address
+
+can deploy via Remix?
